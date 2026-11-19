@@ -1,0 +1,9 @@
+Crop,Rainfall,Temperature,Humidity,Soil_Type,Fertilizer,Yield
+Rice,1200,28,80,Clay,120,3500
+Wheat,600,22,65,Loamy,100,2800
+Maize,800,26,70,Black,110,4200
+Sugarcane,1500,30,85,Clay,150,6500
+Cotton,700,27,60,Black,130,2500
+Rice,1100,29,78,Clay,125,3300
+Wheat,650,21,68,Loamy,105,2900
+Maize,900,25,75,Black,115,4000
