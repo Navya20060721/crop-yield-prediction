@@ -2,6 +2,8 @@
 
 A machine learning web app that predicts crop yield (hg/ha) from country, crop, year, rainfall, pesticides and temperature.
 
+Live demo: https://navya-crop-yield-prediction.streamlit.app 
+
 ## Dataset
 Crop Yield Prediction Dataset (Kaggle), about 28,000 rows. File: `datasets/yield_df.csv`
 
