@@ -18,4 +18,8 @@ temp = st.number_input("Average temperature (°C)", 0, 40, 25)
 
 if st.button("Predict Yield"):
     result = predict_yield(area, item, year, rain, pest, temp)
-    st.success(f"Predicted yield: {result:,.0f} hg/ha ({result/10:,.0f} kg/ha)") 
+    st.success(f"Predicted yield: {result:,.0f} hg/ha ({result/10:,.0f} kg/ha)")       
+
+
+
+    
